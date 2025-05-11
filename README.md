@@ -25,6 +25,7 @@ Passionate developer with interest in low-level programming, compilers, and algo
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![SFML](https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logo=sfml&logoColor=white)
 ![GRAPHVIZ](https://img.shields.io/badge/Graphviz-DDAA33?style=for-the-badge&logo=graphviz&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 ## 📫 My Contacts  
 <a href="mailto:kaplin.aa@phystech.edu">
