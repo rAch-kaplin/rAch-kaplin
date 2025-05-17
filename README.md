@@ -10,10 +10,10 @@
 Passionate developer with interest in low-level programming, compilers, and algorithms.
 
 ## 🚀 Featured Projects
-- [CPU](https://github.com/rAch-kaplin/CPU) - Implementation of a mathematical stack processor running on my own assembler
-- [Differentiator](https://github.com/rAch-kaplin/Differentiator) - A calculator that differentiates and counts expressions with TeX file generation
 - [Language](https://github.com/rAch-kaplin/Language) - My programming language with volleyball syntax, and with compilation on my processor
+- [Differentiator](https://github.com/rAch-kaplin/Differentiator) - A calculator that differentiates and counts expressions with TeX file generation
 - [Akinator](https://github.com/rAch-kaplin/Akinator) - A game Akinator with support for two modes: terminal and graphical (written with SFML library)
+- [CPU](https://github.com/rAch-kaplin/CPU) - Implementation of a mathematical stack processor running on my own assembler
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
