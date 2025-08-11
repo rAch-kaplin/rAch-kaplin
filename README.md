@@ -4,27 +4,25 @@
 </p>
 
 <h1 align="left">Artyom Kaplin</h1>
-<h3 align="left">MIPT DREC 1st year</h3>
+<h3 align="left">MIPT DREC 2st year</h3>
 
 ## 🌟 About Me
-Passionate developer with interest in low-level programming, compilers, and algorithms.
+Enthusiastic developer passionate about programming, with a strong interest in computer networks, low-level programming, and backend development.
 
 ## 🚀 Featured Projects
-- [Language](https://github.com/rAch-kaplin/Language) - My programming language with volleyball syntax, and with compilation on my processor
-- [Differentiator](https://github.com/rAch-kaplin/Differentiator) - A calculator that differentiates and counts expressions with TeX file generation
-- [Akinator](https://github.com/rAch-kaplin/Akinator) - A game Akinator with support for two modes: terminal and graphical (written with SFML library)
-- [CPU](https://github.com/rAch-kaplin/CPU) - Implementation of a mathematical stack processor running on my own assembler
+- [**MetricsService**](https://github.com/rAch-kaplin/MetricsService) — Service collection and processing of runtime metrics.
+- [**Language**](https://github.com/rAch-kaplin/Language) — Custom programming language with volleyball-inspired syntax, compiled into my own CPU architecture.
+- [**Differentiator**](https://github.com/rAch-kaplin/Differentiator) — Symbolic math engine for differentiation and expression evaluation with TeX output.
+- [**CPU**](https://github.com/rAch-kaplin/CPU) — Mathematical stack-based processor with a custom assembler.
 
-# 💻 Tech Stack:
+## 💻 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Make](https://img.shields.io/badge/Make-%23A42E2B.svg?style=for-the-badge&logo=gnu&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-![SFML](https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logo=sfml&logoColor=white)
-![GRAPHVIZ](https://img.shields.io/badge/Graphviz-DDAA33?style=for-the-badge&logo=graphviz&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 ## 📫 My Contacts  
